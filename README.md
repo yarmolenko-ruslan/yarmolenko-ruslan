@@ -22,12 +22,12 @@
 
 Я начинающий Frontend-разработчик и я обожаю писать код! Начал свой пусть в 2020 году с прохождения курсов по верстке и тут понеслось!
 - Живу frontend разработкой,
-- Каждый пишу код и развиваюсь,
+- Каждый день пишу код и развиваюсь,
 - Углубленно изучаю JS и библиотеку React,
 - Изучаю TypeScript и Redux,
 - Делаю Pet-проекты для изучения технологий на практике,
 - Ищу работу Frontend-разработчиком,
-- Хочу делать мир лучше.
+- Хочу стать высококвалифицированным специалистом в своей сфере.
 
 <div align="center">
   <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" title="Coder" alt="coder" height="70">
@@ -49,7 +49,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp  
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;  
 </div>
 
 ---
